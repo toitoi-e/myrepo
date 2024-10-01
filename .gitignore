@@ -1,0 +1,10 @@
+secret_data.txt
+
+# Ignore common executable file types
+*.exe        # Windows executables
+*.out        # Compiled output files
+*.app        # Mac applications
+*.bin        # Binary files
+*.sh         # Shell scripts
+*.cmd        # Windows command files
+*.bat        # Windows batch files
