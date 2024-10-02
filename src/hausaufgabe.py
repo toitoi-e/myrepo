@@ -14,4 +14,5 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+    print("lool")
     #print("Nichts passiert. :( Ich glaube, du musst noch einige Fehler beheben.")
